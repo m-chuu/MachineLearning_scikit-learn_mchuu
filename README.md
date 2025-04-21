@@ -23,6 +23,18 @@ We need Machine Learning for:
 
 > The dataset used in this project is [`education_career_success.csv`](education_career_success.csv).
 
+## 📈 Visualization
+
+The chart below (`output.png`) illustrates the relationship between **Starting Salary** and **University CGPA**. 
+
+![Output](output.png)
+
+From the visualization, we can observe that:
+
+- There is a **positive correlation** between CGPA and starting salary.
+- Candidates with **higher CGPAs tend to secure higher starting salaries**, indicating that academic performance may play a significant role in early career compensation.
+
+
 ---
 
 ## 🚣️ Career Path Overview
