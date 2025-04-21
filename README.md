@@ -27,7 +27,7 @@ We need Machine Learning for:
 
 The chart below (`output.png`) illustrates the relationship between **Starting Salary** and **University CGPA**. 
 
-![Output](output.png)
+![Output](Result.png)
 
 From the visualization, we can observe that:
 
