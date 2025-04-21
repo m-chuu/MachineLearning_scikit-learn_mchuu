@@ -21,7 +21,7 @@ We need Machine Learning for:
 - [Statista](https://www.statista.com/) — trusted industry statistics
 - [Kaggle](https://www.kaggle.com/) — community and competition-based datasets
 
-> The dataset used in this project is **`IT_salaries_in_the_US.xlsx`**.
+> The dataset used in this project is **`education_career_success.csv`**.
 
 ---
 
